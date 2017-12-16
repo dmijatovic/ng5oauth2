@@ -1,5 +1,7 @@
 # Sample2
 
+This is copy of the [sample project created by Manfred Steyer](https://github.com/manfredsteyer/angular-oauth2-oidc)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.1.
 
 ## Development server
